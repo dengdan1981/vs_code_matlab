@@ -7,7 +7,6 @@
 | 文件 | 描述 |
 |------|------|
 | `my_fft.m` | 核心 Cooley-Tukey 基-2 DIT FFT 实现 |
-| `fft.m` | `my_fft` 的便捷包装（避免与 MATLAB 内置 fft 冲突） |
 | `test_fft.m` | 完整测试脚本（10 项测试） |
 
 ## 算法
