@@ -1,0 +1,15 @@
+# MATLAB
+*.m~*
+*.asv
+*.mat
+*.slxc
+*.slx~
+*.mlapp~
+*.fig
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Claude
+.claude/
