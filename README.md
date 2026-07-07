@@ -8,6 +8,7 @@
 |------|------|
 | `my_fft.m` | 核心 Cooley-Tukey 基-2 DIT FFT 实现 |
 | `test_fft.m` | 完整测试脚本（10 项测试） |
+| `version.txt` | 版本号文件（每次提交自动递增） |
 
 ## 算法
 
